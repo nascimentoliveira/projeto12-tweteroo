@@ -1,0 +1,30 @@
+{
+  "name": "projeto12-tweteroo",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "tweteroo app backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nascimentoliveira/projeto12-tweteroo.git"
+  },
+  "keywords": [
+    "API",
+    "backend",
+    "chat",
+    "messages"
+  ],
+  "author": "Thiago Nascimento",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/nascimentoliveira/projeto12-tweteroo/issues"
+  },
+  "homepage": "https://github.com/nascimentoliveira/projeto12-tweteroo#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
